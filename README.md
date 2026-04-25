@@ -44,9 +44,11 @@ Assign the computed result to the output.
 Write a testbench to apply different input combinations.
 Simulate the design using HDL tools.
 Observe the waveform and verify correctness of outputs.
-5.TRUTH TABLE:-
+5.RTL SCHEMATIC DESIGN:-
+<img width="752" height="383" alt="Image" src="https://github.com/user-attachments/assets/c59bb4d0-1996-4243-8aef-24c50384ef5a" />
+6.TRUTH TABLE:-
 <img width="299" height="173" alt="Image" src="https://github.com/user-attachments/assets/40487e94-cc15-4471-a0df-f7c31eaa3e0a" />
-6.OUTPUT WAVEFROM:-
+7.OUTPUT WAVEFROM:-
 <img width="766" height="373" alt="Image" src="https://github.com/user-attachments/assets/e26a8007-6fac-40d6-a5a2-fb9961823d11" />
-7.RESULT:-
+8.RESULT:-
 The ALU was successfully designed and simulated. All arithmetic and logical operations produced correct outputs for different input combinations. The waveform analysis confirms proper functioning of the ALU.
